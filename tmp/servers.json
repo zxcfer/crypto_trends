@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "name": "botin",
+      "status": "off"
+    },
+    {
+      "name": "Fraser",
+      "type": "off"
+    }
+  ]
+}

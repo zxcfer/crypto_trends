@@ -1,0 +1,42 @@
+[
+	{
+		"url": "https://news.bitcoin.com/feed/", 
+		"website_url" : "https://news.bitcoin.com/",
+		"website_name" : "Bitcoin News"
+	},
+	{
+		"url": "https://cointelegraph.com/rss/tag/altcoin", 
+		"website_url" : "https://cointelegraph.com/rss-feeds",
+		"website_name" : "Cointelegraph"
+	},
+	{
+		"url": "https://cointelegraph.com/rss/tag/bitcoin", 
+		"website_url" : "https://cointelegraph.com/rss-feeds",
+		"website_name" : "Cointelegraph"
+	},
+	{
+		"url": "https://cointelegraph.com/rss/tag/blockchain", 
+		"website_url" : "https://cointelegraph.com/rss-feeds",
+		"website_name" : "Cointelegraph"
+	},
+	{
+		"url": "https://cointelegraph.com/rss/tag/ethereum", 
+		"website_url" : "https://cointelegraph.com/rss-feeds",
+		"website_name" : "Cointelegraph"
+	},
+	{
+		"url": "https://cointelegraph.com/rss/tag/litecoin", 
+		"website_url" : "https://cointelegraph.com/rss-feeds",
+		"website_name" : "Cointelegraph"
+	},
+	{
+		"url": "https://cointelegraph.com/rss/tag/monero", 
+		"website_url" : "https://cointelegraph.com/rss-feeds",
+		"website_name" : "Cointelegraph"
+	},
+	{
+		"url": "https://cointelegraph.com/rss/tag/regulation", 
+		"website_url" : "https://cointelegraph.com/rss-feeds",
+		"website_name" : "Cointelegraph"
+	}
+]
